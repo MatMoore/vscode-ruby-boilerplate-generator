@@ -5,6 +5,7 @@
 	"version": "0.0.1",
 	"license": "MIT",
 	"author": {"name": "Mat Moore"},
+	"publisher": "MatMoore",
 	"repository": "github:matmoore/vscode-ruby-boilerplate-generator",
 	"engines": {
 		"vscode": "^1.47.0"

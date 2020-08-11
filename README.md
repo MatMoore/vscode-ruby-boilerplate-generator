@@ -26,5 +26,7 @@ This extension exposes the following commands:
 
 Initial release
 
-# License
-MIT
+## License
+This code is released under the MIT license.
+
+To publish a fork, you will need to change the metadata in `package.json` and follow the [publishing instructions](https://code.visualstudio.com/api/working-with-extensions/publishing-extension).
